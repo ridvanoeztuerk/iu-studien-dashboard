@@ -1,0 +1,434 @@
+{
+  "format_version": 1,
+  "studiengang": {
+    "name": "B.Sc. Cyber Security",
+    "benoetigte_ects": 180
+  },
+  "fristziel": {
+    "bezeichnung": "Abschluss bis 15.03.2028",
+    "startdatum": "2024-03-15",
+    "zieldatum": "2028-03-15"
+  },
+  "notenziel": {
+    "bezeichnung": "Notendurchschnitt ≤ 2,5",
+    "zielwert": 2.5
+  },
+  "module": [
+    {
+      "kuerzel": "DLBIBRVS01",
+      "titel": "Betriebssysteme, Rechnernetze und verteilte Systeme",
+      "ects": 5,
+      "anerkannt": true,
+      "pruefungsleistungen": []
+    },
+    {
+      "kuerzel": "DLBISIC01",
+      "titel": "Einführung in Datenschutz und IT-Sicherheit",
+      "ects": 5,
+      "anerkannt": false,
+      "pruefungsleistungen": [
+        {
+          "art": "KLAUSUR",
+          "versuch": 1,
+          "datum": "2024-07-12",
+          "note": 2.0
+        }
+      ]
+    },
+    {
+      "kuerzel": "DLBDSIPWP01_D",
+      "titel": "Einführung in die Programmierung mit Python",
+      "ects": 5,
+      "anerkannt": false,
+      "pruefungsleistungen": [
+        {
+          "art": "KLAUSUR",
+          "versuch": 1,
+          "datum": "2024-09-20",
+          "note": 2.3
+        }
+      ]
+    },
+    {
+      "kuerzel": "DLBWIRITT01",
+      "titel": "Einführung in das wissenschaftliche Arbeiten für IT und Technik",
+      "ects": 5,
+      "anerkannt": false,
+      "pruefungsleistungen": [
+        {
+          "art": "ADVANCED_WORKBOOK",
+          "versuch": 1,
+          "datum": "2024-11-08",
+          "note": 1.7
+        }
+      ]
+    },
+    {
+      "kuerzel": "DLBDSOOFPP01_D",
+      "titel": "Projekt: Objektorientierte und funktionale Programmierung mit Python",
+      "ects": 5,
+      "anerkannt": false,
+      "pruefungsleistungen": [
+        {
+          "art": "PORTFOLIO",
+          "versuch": 1,
+          "datum": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "kuerzel": "DLBIHK01",
+      "titel": "Interkulturelle und ethische Handlungskompetenzen",
+      "ects": 5,
+      "anerkannt": false,
+      "pruefungsleistungen": [
+        {
+          "art": "FALLSTUDIE",
+          "versuch": 1,
+          "datum": "2025-01-17",
+          "note": 2.7
+        }
+      ]
+    },
+    {
+      "kuerzel": "DLBCSEINF01_D",
+      "titel": "Einführung in die Netzwerkforensik",
+      "ects": 5,
+      "anerkannt": false,
+      "pruefungsleistungen": [
+        {
+          "art": "KLAUSUR",
+          "versuch": 1,
+          "datum": "2025-03-14",
+          "note": 3.0
+        }
+      ]
+    },
+    {
+      "kuerzel": "IMT101",
+      "titel": "Mathematik Grundlagen I",
+      "ects": 5,
+      "anerkannt": false,
+      "pruefungsleistungen": [
+        {
+          "art": "KLAUSUR",
+          "versuch": 1,
+          "datum": "2025-05-23",
+          "note": 2.3
+        }
+      ]
+    },
+    {
+      "kuerzel": "DLBDSSPDS01_D",
+      "titel": "Statistik - Wahrscheinlichkeit und deskriptive Statistik",
+      "ects": 5,
+      "anerkannt": false,
+      "pruefungsleistungen": [
+        {
+          "art": "ADVANCED_WORKBOOK",
+          "versuch": 1,
+          "datum": "2025-07-04",
+          "note": 1.3
+        }
+      ]
+    },
+    {
+      "kuerzel": "IREN01",
+      "titel": "Requirements Engineering",
+      "ects": 5,
+      "anerkannt": false,
+      "pruefungsleistungen": [
+        {
+          "art": "KLAUSUR",
+          "versuch": 1,
+          "datum": "2025-10-26",
+          "note": 5.0
+        },
+        {
+          "art": "KLAUSUR",
+          "versuch": 2,
+          "datum": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "kuerzel": "DLBDBAPM01",
+      "titel": "Projekt: Agiles Projektmanagement",
+      "ects": 5,
+      "anerkannt": false,
+      "pruefungsleistungen": [
+        {
+          "art": "PROJEKTBERICHT",
+          "versuch": 1,
+          "datum": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "kuerzel": "DLBKA01",
+      "titel": "Kollaboratives Arbeiten",
+      "ects": 5,
+      "anerkannt": false,
+      "pruefungsleistungen": []
+    },
+    {
+      "kuerzel": "DLBCSESPB01_D",
+      "titel": "Grundzüge des System-Pentestings",
+      "ects": 5,
+      "anerkannt": false,
+      "pruefungsleistungen": [
+        {
+          "art": "KLAUSUR",
+          "versuch": 1,
+          "datum": "2025-12-12",
+          "note": 2.7
+        }
+      ]
+    },
+    {
+      "kuerzel": "DLBITIML01",
+      "titel": "Theoretische Informatik und Mathematische Logik",
+      "ects": 5,
+      "anerkannt": false,
+      "pruefungsleistungen": []
+    },
+    {
+      "kuerzel": "DLBCSEESE01_D",
+      "titel": "Social Engineering und Insider Threats",
+      "ects": 5,
+      "anerkannt": false,
+      "pruefungsleistungen": [
+        {
+          "art": "FALLSTUDIE",
+          "versuch": 1,
+          "datum": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "kuerzel": "DLBCSEEISC01_D",
+      "titel": "Technische und betriebliche IT-Sicherheitskonzeptionen",
+      "ects": 5,
+      "anerkannt": false,
+      "pruefungsleistungen": []
+    },
+    {
+      "kuerzel": "DLBCSEESE02_D",
+      "titel": "Projekt: Social Engineering",
+      "ects": 5,
+      "anerkannt": false,
+      "pruefungsleistungen": []
+    },
+    {
+      "kuerzel": "WPC-3",
+      "titel": "Wahlpflichtbereich C (Modul offen)",
+      "ects": 5,
+      "anerkannt": false,
+      "pruefungsleistungen": []
+    },
+    {
+      "kuerzel": "DLBCSEDCSW01_D",
+      "titel": "DevSecOps und gängige Software-Schwachstellen",
+      "ects": 5,
+      "anerkannt": false,
+      "pruefungsleistungen": []
+    },
+    {
+      "kuerzel": "DLBISIC02-01",
+      "titel": "Kryptografische Verfahren",
+      "ects": 5,
+      "anerkannt": false,
+      "pruefungsleistungen": [
+        {
+          "art": "FALLSTUDIE",
+          "versuch": 1,
+          "datum": "2026-02-27",
+          "note": 2.0
+        }
+      ]
+    },
+    {
+      "kuerzel": "DLBCSEHSF01_D",
+      "titel": "Host- und Softwareforensik",
+      "ects": 5,
+      "anerkannt": false,
+      "pruefungsleistungen": []
+    },
+    {
+      "kuerzel": "DLBCSSCTCS01_D",
+      "titel": "Seminar: Aktuelle Themen in Computer Science",
+      "ects": 5,
+      "anerkannt": false,
+      "pruefungsleistungen": []
+    },
+    {
+      "kuerzel": "DLBCSEEISC02_D",
+      "titel": "Projekt: Einsatz und Konfiguration von SIEM-Systemen",
+      "ects": 5,
+      "anerkannt": false,
+      "pruefungsleistungen": []
+    },
+    {
+      "kuerzel": "WPC-4",
+      "titel": "Wahlpflichtbereich C (Modul offen)",
+      "ects": 5,
+      "anerkannt": false,
+      "pruefungsleistungen": []
+    },
+    {
+      "kuerzel": "DLBCSEEFT01_D",
+      "titel": "Threat Modeling",
+      "ects": 5,
+      "anerkannt": false,
+      "pruefungsleistungen": []
+    },
+    {
+      "kuerzel": "DLBCSEISS01_D",
+      "titel": "Standards der Informationssicherheit",
+      "ects": 5,
+      "anerkannt": false,
+      "pruefungsleistungen": [
+        {
+          "art": "FALLSTUDIE",
+          "versuch": 1,
+          "datum": "2026-05-08",
+          "note": 2.3
+        }
+      ]
+    },
+    {
+      "kuerzel": "WPA",
+      "titel": "Wahlpflichtbereich A (Modul offen)",
+      "ects": 10,
+      "anerkannt": false,
+      "pruefungsleistungen": []
+    },
+    {
+      "kuerzel": "DLBCSEEFT02_D",
+      "titel": "Projekt: Threat Modeling",
+      "ects": 5,
+      "anerkannt": false,
+      "pruefungsleistungen": []
+    },
+    {
+      "kuerzel": "WPC-5",
+      "titel": "Wahlpflichtbereich C (Modul offen)",
+      "ects": 5,
+      "anerkannt": false,
+      "pruefungsleistungen": []
+    },
+    {
+      "kuerzel": "SG-I",
+      "titel": "Studium Generale I",
+      "ects": 5,
+      "anerkannt": true,
+      "pruefungsleistungen": []
+    },
+    {
+      "kuerzel": "SG-II",
+      "titel": "Studium Generale II",
+      "ects": 5,
+      "anerkannt": false,
+      "pruefungsleistungen": []
+    },
+    {
+      "kuerzel": "DLBMINPAPCC01",
+      "titel": "Projekt: Allgemeine Programmierung mit C/C++",
+      "ects": 5,
+      "anerkannt": false,
+      "pruefungsleistungen": []
+    },
+    {
+      "kuerzel": "WPC-6",
+      "titel": "Wahlpflichtbereich C (Modul offen)",
+      "ects": 5,
+      "anerkannt": false,
+      "pruefungsleistungen": []
+    },
+    {
+      "kuerzel": "BBAK01",
+      "titel": "Bachelorarbeit",
+      "ects": 9,
+      "anerkannt": false,
+      "pruefungsleistungen": []
+    },
+    {
+      "kuerzel": "BBAK02",
+      "titel": "Kolloquium",
+      "ects": 1,
+      "anerkannt": false,
+      "pruefungsleistungen": []
+    }
+  ],
+  "semester": [
+    {
+      "nummer": 1,
+      "module": [
+        "DLBIBRVS01",
+        "DLBISIC01",
+        "DLBDSIPWP01_D",
+        "DLBWIRITT01",
+        "DLBDSOOFPP01_D",
+        "DLBIHK01"
+      ]
+    },
+    {
+      "nummer": 2,
+      "module": [
+        "DLBCSEINF01_D",
+        "IMT101",
+        "DLBDSSPDS01_D",
+        "IREN01",
+        "DLBDBAPM01",
+        "DLBKA01"
+      ]
+    },
+    {
+      "nummer": 3,
+      "module": [
+        "DLBCSESPB01_D",
+        "DLBITIML01",
+        "DLBCSEESE01_D",
+        "DLBCSEEISC01_D",
+        "DLBCSEESE02_D",
+        "WPC-3"
+      ]
+    },
+    {
+      "nummer": 4,
+      "module": [
+        "DLBCSEDCSW01_D",
+        "DLBISIC02-01",
+        "DLBCSEHSF01_D",
+        "DLBCSSCTCS01_D",
+        "DLBCSEEISC02_D",
+        "WPC-4"
+      ]
+    },
+    {
+      "nummer": 5,
+      "module": [
+        "DLBCSEEFT01_D",
+        "DLBCSEISS01_D",
+        "WPA",
+        "DLBCSEEFT02_D",
+        "WPC-5"
+      ]
+    },
+    {
+      "nummer": 6,
+      "module": [
+        "SG-I",
+        "SG-II",
+        "DLBMINPAPCC01",
+        "WPC-6",
+        "BBAK01",
+        "BBAK02"
+      ]
+    }
+  ]
+}

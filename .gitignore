@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Temporäre Datei beim atomaren Speichern
+*.tmp
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Persönliche Daten nicht veröffentlichen (Aufruf mit --datei daten/privat/studium.json)
+daten/privat/
